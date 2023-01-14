@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(224, 235, 245);
+}
+.navbar {
+    background-color: rgb(87, 51, 234)!important;
+}
+
+.button {
+    margin-top: 15px;
+ 
+}
+#edit-icon {
+    display: flex;
+    justify-content: right;
+    
+}
+
